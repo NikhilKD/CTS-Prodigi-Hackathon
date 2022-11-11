@@ -23,6 +23,10 @@ Github URL: https://github.com/NikhilKD/Frosh
 
 2. Billing Webapp with Recommandation System, Payment System, Vendors Ease.
 
+As of now, we've worked on a number of significant projects, including "Weather forecasting and prediction" and "Billing system and recommendation system" 
+as part of the Xiaomi Ode2Code Hackathon, where we finished in the top 100. These projects helped us to strengthen our skills and 
+gave us real-world experience.
+
 Our idea is to build a web billing application which can be divided into 3 main categories that are Payment, product, 
 Vendor which will ease customer buy (Note: The features uder 3 major categories are explained properly in “Features that 
 are good to have” part). We can trigger and add features in these areas. In the payment part we can give them point redeems/discount 
