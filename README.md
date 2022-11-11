@@ -1,4 +1,4 @@
-Our Website design: https://www.figma.com/file/OMdikmXz7XyhMKVKrfaxBb/Prodigi-hackathon
+Our Website design: https://www.figma.com/file/OMdikmXz7XyhMKVKrfaxBb/Prodigi-hackathon?node-id=0%3A1
 
 Achievements
 
