@@ -1,3 +1,7 @@
+Our Website design: https://www.figma.com/file/OMdikmXz7XyhMKVKrfaxBb/Prodigi-hackathon
+
+Achievements
+
 Our team had taken part me many hackathons previously. Also, our team has an experience of working individually as well. 
 We have a great coordination and motivation to develop this project. Also, one of our members got through the final round 
 of the MLH Fellowship. With our different skillset, diverse mind and fresh new ideas we are working together as a team to 
@@ -22,6 +26,10 @@ Hosted on Firebase: Hosting URL:https://frosh-c7f60.web.app/
 Github URL: https://github.com/NikhilKD/Frosh
 
 2. Billing Webapp with Recommandation System, Payment System, Vendors Ease.
+
+As of now, we've worked on a number of significant projects, including "Weather forecasting and prediction" and 
+"Billing system and recommendation system" as part of the Xiaomi Ode2Code Hackathon, where we finished in the top 100. 
+These projects helped us to strengthen our skills and gave us real-world experience.
 
 Our idea is to build a web billing application which can be divided into 3 main categories that are Payment, product, 
 Vendor which will ease customer buy (Note: The features uder 3 major categories are explained properly in “Features that 
